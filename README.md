@@ -8,7 +8,7 @@
 
 ---
 
-<h3>:bulb: TECH STACK :bulb:</h3>
+<h3>:bulb: :bulb:</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H2-yeon&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
