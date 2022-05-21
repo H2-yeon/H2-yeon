@@ -12,6 +12,7 @@
 
 ---
 
+<h3>:bulb: TECH STACK :bulb:</h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H2-yeon&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H2-yeon&layout=compact)](https://github.com/H2-yeon/github-readme-stats)
 </div>
