@@ -1,6 +1,5 @@
 <div align="center" style="text-align:center">
 </br>
----
 
 <h3>:telephone: CONTACT :telephone:</h3>
 
