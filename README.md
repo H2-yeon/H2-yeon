@@ -5,6 +5,8 @@
 
 ---
 
+<h3>:telephone: CONTACT :telephone:</h3>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjsgmldus00@gmail.com)](mailto:wjsgmldus00@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100005557752924)](https://www.facebook.com/profile.php?id=100005557752924)
 
